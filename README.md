@@ -358,7 +358,8 @@ Use `--verbose` flag for detailed logging and debugging information.
 
 ## 📝 License
 
-GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 - see LICENSE file for details.
+License: Proprietary © 2025 John Smith
+Use allowed for personal or internal purposes only. Modification or redistribution is prohibited.
 
 ## 🤝 Contributing
 
@@ -367,4 +368,5 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 ## 📞 Support
 
 If you encounter any issues or have questions, please open an issue on GitHub.
+
 
