@@ -1,4 +1,7 @@
-[![License: Proprietary – No Redistribution](https://img.shields.io/badge/License-Proprietary--No--Redistribution-red.svg)](./LICENSE)
+![License](https://img.shields.io/badge/License-Proprietary-red.svg)
+![Status](https://img.shields.io/badge/Status-Active--Development-brightgreen.svg)
+![Built with](https://img.shields.io/badge/Built%20with-Node.js-43853D.svg?logo=node.js&logoColor=white)
+
 
 
 # FiveM Bot Detection Tool v3.0
@@ -361,17 +364,32 @@ Use `--verbose` flag for detailed logging and debugging information.
 
 ## 📝 License
 
-License: Proprietary © 2025 John Smith
-Use allowed. You may share the official GitHub link only.
-Modification, redistribution, or resale is strictly prohibited.
+**License:** Proprietary © 2025 John Smith  
+
+Use of this software is permitted for personal or internal purposes only.  
+You may share the **official GitHub repository link** to this project to direct others to the original source.  
+
+Any other form of redistribution — including reuploads, forks, code modification, mirroring, or resale — is strictly prohibited without prior written consent from the author.  
+
+> ⚠️ All rights reserved. This software is not open source.
+
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit issues and pull requests.
+This is a proprietary project, and as such, **code contributions, forks, or pull requests are not accepted**.
+
+Community involvement is still encouraged through:
+- Reporting bugs or issues
+- Suggesting new features or improvements
+- Sharing feedback through GitHub Issues
+
+> 💡 You are welcome to share the **official repository link** with others, but do not redistribute, modify, or host the code elsewhere.
+
 
 ## 📞 Support
 
 If you encounter any issues or have questions, please open an issue on GitHub.
+
 
 
 
