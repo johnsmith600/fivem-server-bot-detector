@@ -358,7 +358,7 @@ Use `--verbose` flag for detailed logging and debugging information.
 
 ## 📝 License
 
-MIT License - see LICENSE file for details.
+GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007 - see LICENSE file for details.
 
 ## 🤝 Contributing
 
@@ -367,3 +367,4 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 ## 📞 Support
 
 If you encounter any issues or have questions, please open an issue on GitHub.
+
