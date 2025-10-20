@@ -1,0 +1,37 @@
+{
+  "name": "fivem-bot-detection",
+  "version": "3.0.0",
+  "description": "Ultra-conservative FiveM server bot detection tool with zero false positives and comprehensive analysis",
+  "main": "fivem-bot-detection.js",
+  "bin": {
+    "fivem-bot-detection": "./fivem-bot-detection.js"
+  },
+  "scripts": {
+    "start": "node fivem-bot-detection.js",
+    "help": "node fivem-bot-detection.js --help",
+    "example": "node fivem-bot-detection.js abc123 --verbose --output results.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fivem",
+    "bot-detection",
+    "steam",
+    "gaming",
+    "server-monitoring",
+    "anti-cheat"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnsmith600/fivem-server-bot-detector.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnsmith600/fivem-server-bot-detector/issues"
+  },
+  "homepage": "https://github.com/johnsmith600/fivem-server-bot-detector#readme"
+}
