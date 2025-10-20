@@ -1,3 +1,6 @@
+[![License: Proprietary – No Redistribution](https://img.shields.io/badge/License-Proprietary--No--Redistribution-red.svg)](./LICENSE)
+
+
 # FiveM Bot Detection Tool v3.0
 
 🛡️ **Ultra-conservative FiveM server bot detection tool with bulletproof validation, zero false positives, and comprehensive analysis.**
@@ -359,7 +362,8 @@ Use `--verbose` flag for detailed logging and debugging information.
 ## 📝 License
 
 License: Proprietary © 2025 John Smith
-Use allowed for personal or internal purposes only. Modification or redistribution is prohibited.
+Use allowed. You may share the official GitHub link only.
+Modification, redistribution, or resale is strictly prohibited.
 
 ## 🤝 Contributing
 
@@ -368,5 +372,6 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 ## 📞 Support
 
 If you encounter any issues or have questions, please open an issue on GitHub.
+
 
 
