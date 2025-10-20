@@ -1,14 +1,21 @@
 Copyright (c) 2025 John Smith
 
 Permission is hereby granted to install and use this software for personal or internal purposes only.
-Modification, reverse-engineering, redistribution (in whole or in part), or commercial use of this software 
-is strictly prohibited without the prior written consent of the author.
 
-You may not sublicense, sell, lease, or otherwise distribute copies of this software, whether modified 
-or unmodified. All rights not expressly granted to the user are reserved by the author.
+You may share the official GitHub repository link to this software for the purpose of directing 
+others to the original source. No other forms of redistribution are permitted, including but not 
+limited to uploading, hosting, or mirroring the software on any other platform, repository, or 
+distribution channel.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT 
-LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. 
-IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION 
-OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
-OTHER DEALINGS IN THE SOFTWARE.
+Modification, reverse-engineering, decompiling, or creating derivative works of this software 
+is strictly prohibited. Selling, leasing, sublicensing, or including this software (in whole or 
+in part) within another project or repository is also strictly prohibited without the prior 
+written consent of the author.
+
+All rights not expressly granted to the user are reserved by the author.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING 
+BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN 
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
